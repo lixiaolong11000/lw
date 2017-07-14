@@ -1,1 +1,4 @@
-branch dev  git3
+<<<<<<< Updated upstream
+branch dev
+
+git git
