@@ -1,7 +1,5 @@
-
-branch dev
-
-git git
-
-git git
+<<<<<<< HEAD
 git4
+=======
+git2
+>>>>>>> git2
